@@ -48,7 +48,7 @@ During these Covid Times we all are stuck at our homes and Spending huge amount 
 * Firebase(Journals)
 
 ## Challenges that We faced
-We were working for the First Time with React native.. Also the Implementation of our Ideas were Beyond our Tech Stack and we were finding it difficult to implement but at last we were able to make a complete our app which Would Definately help the World in treating Mental Health
+We were working for the First Time with React native. Also the Implementation of our Ideas were Beyond our Tech Stack and we were finding it difficult to implement but at last we were able to make a complete  app which Would Definately help the World in treating Mental Health
 
 
  
