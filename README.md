@@ -3,6 +3,10 @@
 ## Problem Statement
 During these Covid Times we all are stuck at our homes and Spending huge amount of time to social Media as it sometimes affecting our mental Health. Social media exacerbates mental health problems and allows us to start comparing ourselves to more exciting life appeared on screens. The world needs help taking a mental break to help their mental health.So we must take a break from certain sites that our attacking out mental health in Some Way or the other.Especially during these tough times when most of the countries are into lockdown it is very obvious for people to feel demotivated, stressed and also develop a feeling of Anxiety and mental Disorders.
 
+## Inspiration
+* Mental health apps can be effective in providing guidance in lifestyle and motivation to get relief from mental health issues and also making therapy more accessible, efficient, and portable.
+* Many apps are available in the market for mental health but after researching we found that most were either specific to some particular mental health issues or just weren’t an ‘all-rounder’ app.
+
 ## Ideas
 * Sites/ Apps affecting our mental health can be blocked using app blockers for a specific span of time and whenever we try to open these it redirects to our App Calamant.We are   desparately in need of an app to force us to stop spending so much time in one of the most toxic places on our mental Health.Also an Alternative to this can be Creating a BOT   which Would Monitor users Activity for a span of 30 min. If he opens the App the BOT would Automatically Redirect to our App which contains Mind Soothing Activities.
 * Also In the chat feature , If the user feels lonely He could talk to Some anonymous and share his feelings either through blogs or Chatting.
