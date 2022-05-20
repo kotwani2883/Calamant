@@ -54,6 +54,19 @@ During these Covid Times we all are stuck at our homes and Spending huge amount 
 ## Challenges that We faced
 We were working for the First Time with React native. Also the Implementation of our Ideas were Beyond our Tech Stack and we were finding it difficult to implement but at last we were able to make a complete  app which Would Definately help the World in treating Mental Health
 
+## Why did we use React Native 
+* React Native's popularity as a cross-platform app development solution is quite high and is still in the upward direction.
+* Simple to Learn
+* Easily Convertable into web app.
+* Use case satisfiability
+*  Faster Build With No Excessive Recompiling
+
+## Why did we use Node as a backend framework
+* Javascript library so highly compatible
+* Node. js is very good at handling simultaneous connections
+* Because of its unique I/O approach, Node. js excels in the types of scalable and real-time circumstances that we're increasingly asking of our web servers.
+* Node. js is also fast and lightweight, and its ability to employ JavaScript code on both the frontend and backend opens up new development possibilities
+
 
  
 
