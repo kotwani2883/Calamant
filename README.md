@@ -67,6 +67,16 @@ We were working for the First Time with React native. Also the Implementation of
 * Because of its unique I/O approach, Node. js excels in the types of scalable and real-time circumstances that we're increasingly asking of our web servers.
 * Node. js is also fast and lightweight, and its ability to employ JavaScript code on both the frontend and backend opens up new development possibilities
 
+Learning from this Project-
+In this very Project I did not started blindly with creating an app and working on that
+I followed these steps -
+* Designing and doing POC(proof of concept) on various functionalities required
+* Secondly we designed and anlysed various use cases
+* Apart from this we made a proper flow diagram os how the things gonna carried out
+* Then we decided the tech stack and databases to be used
+* We also made understanding on the deployment of frontend,backend and databases
+* Time managment and team spirit was the major learning from this
+
 
  
 
