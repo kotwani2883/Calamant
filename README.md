@@ -47,7 +47,8 @@ During these Covid Times we all are stuck at our homes and Spending huge amount 
 
 
 ## Project Structure
-![image]([https://drive.google.com/uc?export=view&id=14hfhT2kY6ON-lDT0btsH48_shXlJMoiP](https://drive.google.com/file/d/1B-L0DWY-4dC7F9rOvG8z_zI5nqtBt2wR/view?usp=sharing))
+
+![calamant drawio](https://user-images.githubusercontent.com/56580582/181010288-32e84c5b-5cb2-4cd7-b683-ceff922b4749.png)
 
 
 ## Tech Stack
