@@ -14,6 +14,11 @@ During these Covid Times we all are stuck at our homes and Spending huge amount 
 
 
 ## Feature
+#### Basically our app is divided into 4 major sections.In these sections we have enormous features which are described below
+     * Login/Signup Functionality in the beginning of the mobile App
+     * Home Page: View Profile(Profile+Past and future appointments),Chatbot to talk and relax,Games to relax such as bubble wrap up,sudoku solver,meditate screen with timer and spotify API integrated with it,Craete Meme page where user can enjoy creating memes
+     * Blogs Page-All CRUD Applications present in the blogs screen
+     * Therapist Section- BOOK Appointment+Integration with the Google calender inorder to remind the user.
 * SignUp: Where the User has to Enter his name,email Address, Contact Number,Age and password
 * Login:User can Login  through email id and password
 * Profile: Profile Conatins all the Entries entered by the user and also the appointments fixed with the Therapist
