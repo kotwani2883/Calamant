@@ -88,10 +88,10 @@ I followed these steps -
 * Time managment and team spirit was the major learning from this
 
 
-Current Version We're using
-Node Js: 16.16.0
-React: React 17
-Mongodb: 5.0
+## Current Version We're using
+* Node Js: 16.16.0
+* React: React 17
+* Mongodb: 5.0
 
  
 
