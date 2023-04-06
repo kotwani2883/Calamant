@@ -1,0 +1,1 @@
+The third-party API responded with: {"message":"Mock response from Smee.io"}
