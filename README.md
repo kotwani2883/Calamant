@@ -3,6 +3,10 @@
 ## Problem Statement
 During these Covid Times we all are stuck at our homes and Spending huge amount of time to social Media as it sometimes affecting our mental Health. Social media exacerbates mental health problems and allows us to start comparing ourselves to more exciting life appeared on screens. The world needs help taking a mental break to help their mental health.So we must take a break from certain sites that our attacking out mental health in Some Way or the other.Especially during these tough times when most of the countries are into lockdown it is very obvious for people to feel demotivated, stressed and also develop a feeling of Anxiety and mental Disorders.
 
+## Inspiration
+* Mental health apps can be effective in providing guidance in lifestyle and motivation to get relief from mental health issues and also making therapy more accessible, efficient, and portable.
+* Many apps are available in the market for mental health but after researching we found that most were either specific to some particular mental health issues or just weren’t an ‘all-rounder’ app.
+
 ## Ideas
 * Sites/ Apps affecting our mental health can be blocked using app blockers for a specific span of time and whenever we try to open these it redirects to our App Calamant.We are   desparately in need of an app to force us to stop spending so much time in one of the most toxic places on our mental Health.Also an Alternative to this can be Creating a BOT   which Would Monitor users Activity for a span of 30 min. If he opens the App the BOT would Automatically Redirect to our App which contains Mind Soothing Activities.
 * Also In the chat feature , If the user feels lonely He could talk to Some anonymous and share his feelings either through blogs or Chatting.
@@ -10,6 +14,11 @@ During these Covid Times we all are stuck at our homes and Spending huge amount 
 
 
 ## Feature
+#### Basically our app is divided into 4 major sections.In these sections we have enormous features which are described below
+     * Login/Signup Functionality in the beginning of the mobile App
+     * Home Page: View Profile(Profile+Past and future appointments),Chatbot to talk and relax,Games to relax such as bubble wrap up,sudoku solver,meditate screen with timer and spotify API integrated with it,Craete Meme page where user can enjoy creating memes
+     * Blogs Page-All CRUD Applications present in the blogs screen
+     * Therapist Section- BOOK Appointment+Integration with the Google calender inorder to remind the user.
 * SignUp: Where the User has to Enter his name,email Address, Contact Number,Age and password
 * Login:User can Login  through email id and password
 * Profile: Profile Conatins all the Entries entered by the user and also the appointments fixed with the Therapist
@@ -38,7 +47,12 @@ During these Covid Times we all are stuck at our homes and Spending huge amount 
 
 
 ## Project Structure
-![image](https://drive.google.com/uc?export=view&id=14hfhT2kY6ON-lDT0btsH48_shXlJMoiP)
+
+![calamant drawio](https://user-images.githubusercontent.com/56580582/181010288-32e84c5b-5cb2-4cd7-b683-ceff922b4749.png)
+
+
+## YouTube Link:
+https://www.youtube.com/watch?v=sz5dK_Dfvss
 
 
 ## Tech Stack
@@ -50,6 +64,34 @@ During these Covid Times we all are stuck at our homes and Spending huge amount 
 ## Challenges that We faced
 We were working for the First Time with React native. Also the Implementation of our Ideas were Beyond our Tech Stack and we were finding it difficult to implement but at last we were able to make a complete  app which Would Definately help the World in treating Mental Health
 
+## Why did we use React Native 
+* React Native's popularity as a cross-platform app development solution is quite high and is still in the upward direction.
+* Simple to Learn
+* Easily Convertable into web app.
+* Use case satisfiability
+*  Faster Build With No Excessive Recompiling
+
+## Why did we use Node as a backend framework
+* Javascript library so highly compatible
+* Node. js is very good at handling simultaneous connections
+* Because of its unique I/O approach, Node. js excels in the types of scalable and real-time circumstances that we're increasingly asking of our web servers.
+* Node. js is also fast and lightweight, and its ability to employ JavaScript code on both the frontend and backend opens up new development possibilities
+
+## Learning from this Project-
+In this very Project I did not started blindly with creating an app and working on that
+I followed these steps -
+* Designing and doing POC(proof of concept) on various functionalities required
+* Secondly we designed and anlysed various use cases
+* Apart from this we made a proper flow diagram os how the things gonna carried out
+* Then we decided the tech stack and databases to be used
+* We also made understanding on the deployment of frontend,backend and databases
+* Time managment and team spirit was the major learning from this
+
+
+## Current Version We're using
+* Node Js: 16.16.0
+* React: React 17
+* Mongodb: 5.0
 
  
 
